@@ -416,3 +416,6 @@ FodyWeavers.xsd
 *.msix
 *.msm
 *.msp
+
+# Visual Studio 2015/2017 cache/options directory
+.idea/
